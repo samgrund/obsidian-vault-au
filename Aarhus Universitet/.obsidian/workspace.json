@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd232dd856b3437",
+        "id": "d97ca4b1b49d7138",
         "type": "tabs",
         "children": [
           {
-            "id": "32333235cbfa821d",
+            "id": "dfd2a1c6972f0b21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuclear Physics II/Exam in general.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "138bcc4915cf9171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuclear Physics II/50 seconds questions/The Nilsson model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef08158c9c875905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Scattering amplitude.md",
+                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "right": {
     "id": "f03e0699285312d5",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Scattering amplitude.md",
+                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Scattering amplitude.md",
+                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Scattering amplitude.md"
+                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md"
               }
             }
           }
@@ -171,16 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dc9ccf0ed6ceefd",
+  "active": "dfd2a1c6972f0b21",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Nuclear Physics II/50 seconds questions/Scattering length (Needs a bit more work I think).md",
-    "figures/Pasted image 20230609152250.png",
-    "Nuclear Physics II/50 seconds questions/Phase shifts.md",
-    "figures/Pasted image 20230609150623.png",
     "Nuclear Physics II/50 seconds questions/Scattering amplitude.md",
+    "Nuclear Physics II/50 seconds questions/Second quantization.md",
+    "Nuclear Physics II/50 seconds questions/Phase shifts.md",
+    "Nuclear Physics II/50 seconds questions/Scattering length (Needs a bit more work I think).md",
     "Nuclear Physics II/Exam in general.md",
+    "Untitled.canvas",
     "Nuclear Physics II/50 seconds questions/The Nilsson model.md",
+    "Nuclear Physics II/50 seconds questions/Semiempirical mass formula.md",
+    "figures/Pasted image 20230609160533.png",
+    "figures/Pasted image 20230609160508.png",
+    "figures/Pasted image 20230609160018.png",
+    "figures/Pasted image 20230609152250.png",
+    "figures/Pasted image 20230609150623.png",
     "figures/Pasted image 20230609144051.png",
     "figures/Pasted image 20230609144036.png",
     "figures",

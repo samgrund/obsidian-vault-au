@@ -7,7 +7,7 @@ where $f(\theta)$ is the scattering amplitude (here only described by one coordi
 
 (From [[Scattering amplitude]])
 
-First note that is possible to transfer from a $\ket{p}$ or equivalently $\ket{k}$ basis to a basis of spherical waves $\ket{n,\ell,m}$. This is interesting because the case of a spherically symmetric potential the angular momentum $\ell$ is a conserved quantity in the scattering. This means that the amplitude of each partial wave is preserved and the only effect the potential can have is to apply some phase shifts $\delta_\ell$ to the incoming spherical waves.
+First note that is possible to transfer from a $\ket{p}$ or equivalently $\ket{k}$ basis to a basis of spherical waves $\ket{n,\ell,m}$. This is interesting because in the case of a spherically symmetric potential the angular momentum $\ell$ is a conserved quantity in the scattering. This means that the amplitude of each partial wave is preserved and the only effect the potential can have is to apply some phase shifts $\delta_\ell$ to the incoming spherical waves.
 
 In general we can now express the scattering amplitude based solely on this set of phase shifts for each $\ell$ wave:
 $$

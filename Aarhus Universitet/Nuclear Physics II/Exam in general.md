@@ -27,13 +27,13 @@ W. Busza et al, Heavy Ion Collisions..., sections 1, 2.2, 8 and examples from se
 
 Quantum numbers for the two-nucleon system.  
 Isospin multiplets.  
-The semiempirical mass formula.
+(x) The semiempirical mass formula.
 
 The tensor operator.  
 The deuteron wavefunction.  
 (x) Scattering amplitude.  
-Phase shifts.  
-Scattering length.  
+(x) Phase shifts.  
+(partially) Scattering length.  
 Giant resonances.  
 Halo states.  
 Second quantization.  

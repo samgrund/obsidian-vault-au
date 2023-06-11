@@ -1,3 +1,4 @@
+#structural-models
 **Nilsson model** is a model that treats the atomic nucleus as a deformed sphere.
 
 Experimental results were found that showed rotational bands in nuclei, which is quantum mechanically forbidden in the case of completely spherical nuclei.

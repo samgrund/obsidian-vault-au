@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d97ca4b1b49d7138",
+        "id": "428a26858374075f",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd2a1c6972f0b21",
+            "id": "97bf8f6dabf84a4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md",
+                "file": "Nuclear Physics II/Exam in general.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e7e4bc7064e5516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuclear Physics II/Exam questions/4. Mean field models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#nuclear-models",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5024719238281
   },
   "right": {
     "id": "f03e0699285312d5",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md",
+                "file": "Nuclear Physics II/Exam questions/4. Mean field models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md",
+                "file": "Nuclear Physics II/Exam questions/4. Mean field models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Physics II/50 seconds questions/Phase shifts.md"
+                "file": "Nuclear Physics II/Exam questions/4. Mean field models.md"
               }
             }
           }
@@ -146,25 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfd2a1c6972f0b21",
+  "active": "5e7e4bc7064e5516",
   "lastOpenFiles": [
-    "Nuclear Physics II/50 seconds questions/Scattering amplitude.md",
-    "Nuclear Physics II/50 seconds questions/Second quantization.md",
-    "Nuclear Physics II/50 seconds questions/Phase shifts.md",
-    "Nuclear Physics II/50 seconds questions/Scattering length (Needs a bit more work I think).md",
+    "Nuclear Physics II/50 seconds questions/Tensor forces.md",
+    "Nuclear Physics II/Exam questions/4. Mean field models.md",
+    "Nuclear Physics II/figures/Pasted image 20230611121336.png",
     "Nuclear Physics II/Exam in general.md",
-    "Untitled.canvas",
+    "Nuclear Physics II/50 seconds questions/R- and S process.md",
+    "Nuclear Physics II/Exam questions",
+    "Nuclear Physics II/50 seconds questions/Scattering length.md",
+    "Nuclear Physics II/50 seconds questions/Gamow window.md",
+    "Nuclear Physics II/50 seconds questions/Liquid drop model.md",
     "Nuclear Physics II/50 seconds questions/The Nilsson model.md",
+    "Nuclear Physics II/50 seconds questions/Optical model.md",
+    "Nuclear Physics II/50 seconds questions/Triple-alpha process.md",
+    "Nuclear Physics II/figures/Pasted image 20230610112330.png",
+    "Nuclear Physics II/figures/Pasted image 20230610112153.png",
+    "Nuclear Physics II/50 seconds questions/Astrophysical S-factor.md",
+    "Nuclear Physics II/50 seconds questions/Scattering amplitude.md",
+    "Nuclear Physics II/50 seconds questions/Rotational band.md",
+    "Nuclear Physics II/50 seconds questions/Phase shifts.md",
+    "Nuclear Physics II/figures/Pasted image 20230610110632.png",
+    "Nuclear Physics II/figures/Pasted image 20230609221715.png",
+    "The-Gamow-window-is-the-range-of-energies-where-nuclear-reactions-occur-in-stars-Top.ppm",
+    "Nuclear Physics II/figures/The-Gamow-window-is-the-range-of-energies-where-nuclear-reactions-occur-in-stars-Top 1.ppm",
+    "Nuclear Physics II/figures/The-Gamow-window-is-the-range-of-energies-where-nuclear-reactions-occur-in-stars-Top.ppm",
     "Nuclear Physics II/50 seconds questions/Semiempirical mass formula.md",
-    "figures/Pasted image 20230609160533.png",
-    "figures/Pasted image 20230609160508.png",
-    "figures/Pasted image 20230609160018.png",
-    "figures/Pasted image 20230609152250.png",
-    "figures/Pasted image 20230609150623.png",
-    "figures/Pasted image 20230609144051.png",
-    "figures/Pasted image 20230609144036.png",
-    "figures",
-    "figures/Pasted image 20230609144021.png",
+    "Nuclear Physics II/50 seconds questions/Second quantization.md",
+    "Untitled.canvas",
+    "Nuclear Physics II/figures/Pasted image 20230609160533.png",
+    "Nuclear Physics II/figures/Pasted image 20230609160508.png",
+    "Nuclear Physics II/figures/Pasted image 20230609160018.png",
+    "Nuclear Physics II/figures/Pasted image 20230609152250.png",
+    "Nuclear Physics II/figures/Pasted image 20230609150623.png",
+    "Nuclear Physics II/figures",
     "Nuclear Physics II/50 seconds questions/Untitled.canvas",
     "Nuclear Physics II/50 seconds questions",
     "Nuclear Physics II"

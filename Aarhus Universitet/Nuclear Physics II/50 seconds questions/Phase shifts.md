@@ -1,4 +1,4 @@
-
+#scattering
 > When considering quantum mechanical particles scattered by some potential, the asymptotic outgoing wave can be written as
 $$
 \psi(r) = e^{ikz} + f(\theta)\frac{e^{ikr}}{r},

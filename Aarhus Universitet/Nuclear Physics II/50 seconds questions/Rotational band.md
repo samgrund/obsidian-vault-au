@@ -1,0 +1,1 @@
+Completely spherically symmetric nuclei are rotationally invariant and thus rotation cannot introduce any energy contributions. For deformed nuclei however, this degeneracy is broken and rotational bands are seen in the total nucleus energy spectrum.

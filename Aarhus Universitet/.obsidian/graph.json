@@ -1,22 +1,44 @@
 {
   "collapse-filter": true,
-  "search": "",
-  "showTags": false,
+  "search": "path:\"Nuclear Physics II/50 seconds questions\"",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#astrophysics",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#scattering",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#nuclear-reactions",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 2.29828320468459,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.50152604028037,
   "lineSizeMultiplier": 5,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.516014550616627,
+  "repelStrength": 9.36829030254636,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 2.3205783803648856,
-  "close": false
+  "linkDistance": 99,
+  "scale": 1.227662090583484,
+  "close": true
 }
